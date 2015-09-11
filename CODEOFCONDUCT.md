@@ -33,12 +33,12 @@ Harassment includes:
 * Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect vulnerable people from intentional abuse.
 * Publication of non-harassing private communication. 
 
-Ruby New Zealand prioritizes marginalized people’s safety over privileged people’s comfort. Ruby New Zealand committee will not act on complaints regarding:
+Ruby New Zealand prioritises marginalised people’s safety over privileged people’s comfort. Ruby New Zealand committee will not act on complaints regarding:
 
 * ‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’
 * Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you.”
 * Communicating in a ‘tone’ you don’t find congenial
-* Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions 
+* Criticising racist, sexist, cissexist, or otherwise oppressive behavior or assumptions 
 
 ## Reporting
 
