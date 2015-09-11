@@ -42,7 +42,7 @@ Ruby New Zealand prioritises marginalised people’s safety over privileged peop
 
 ## Reporting
 
-If you are being harassed by a member of Ruby New Zealand, notice that someone else is being harassed, or have any other concerns, please contact the Ruby New Zealand committee at president@ruby.org.nz or private message one of the committee members on Slack. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
+If you are being harassed by a member of Ruby New Zealand, notice that someone else is being harassed, or have any other concerns, please contact the Ruby New Zealand committee at president@ruby.org.nz or private message one of the committee members on Slack. The current committee member list can be found [here](http://ruby.nz/). If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
 
 This code of conduct applies to Ruby New Zealand spaces, but if you are being harassed by a member of Ruby New Zealand outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by Ruby New Zealand members, especially the committee, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from Ruby New Zealand based on their past behavior, including behavior outside Ruby New Zealand spaces and behavior towards people who are not in Ruby New Zealand.
 
