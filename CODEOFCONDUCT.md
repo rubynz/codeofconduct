@@ -33,19 +33,20 @@ Harassment includes:
 * Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect vulnerable people from intentional abuse.
 * Publication of non-harassing private communication. 
 
-Ruby New Zealand does not tolerate harassment of any individual, regardless of whether that individual belongs to a privileged group or not. At the same time, we will take measures to address systemic bias against less privileged groups, including:
+The Ruby New Zealand committee reserves the right not to act on complaints about someone defending themselves from discrimination or harassment, including:
 
-* Outreach to groups who are under-represented in the Ruby community (such as women or Māori)
+* Reasonable communication of boundaries, such as "leave me alone", "go away", or "I’m not discussing this with you"
+* Criticising discriminatory or harassing attitudes or behaviour, even in a confrontational tone
+
+## Protected measures
+
+Ruby New Zealand will take measures to improve the diversity, inclusivity and accessibility of the community, including:
+
+* Outreach to groups who are under-represented in the Ruby community compared to New Zealand at large, such as women or Māori
 * Efforts to make events more accessible to people who would not otherwise be able to participate, such as subsidising tickets for students or paying for ramps or sign language interpreters
-* Holding events such as Rails Girls that are specifically for groups which are minorities within the Ruby community
+* Holding events specifically for groups which are minorities within the Ruby community
 
-Ruby New Zealand committee will not act on complaints regarding:
-
-* ‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’
-* Arguments that measures to address systemic bias constitute discrimination against individuals from privileged groups
-* Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you.”
-* Communicating in a ‘tone’ you don’t find congenial
-* Criticising racist, sexist, cissexist, or otherwise oppressive behavior or assumptions 
+Ruby New Zealand will not act on any complaints to the effect that these measures, or actions that support these measures, constitute discrimination.
 
 ## Reporting
 
