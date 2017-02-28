@@ -33,9 +33,16 @@ Harassment includes:
 * Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect vulnerable people from intentional abuse.
 * Publication of non-harassing private communication. 
 
-Ruby New Zealand prioritises marginalised people’s safety over privileged people’s comfort. Ruby New Zealand committee will not act on complaints regarding:
+Ruby New Zealand does not tolerate harassment of any individual, regardless of whether that individual belongs to a privileged group or not. At the same time, we will take measures to address systemic bias against less privileged groups, including:
+
+* Outreach to groups who are under-represented in the Ruby community (such as women or Māori)
+* Efforts to make events more accessible to people who would not otherwise be able to participate, such as subsidising tickets for students or paying for ramps or sign language interpreters
+* Holding events such as Rails Girls that are specifically for groups which are minorities within the Ruby community
+
+Ruby New Zealand committee will not act on complaints regarding:
 
 * ‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’
+* Arguments that measures to address systemic bias constitute discrimination against individuals from privileged groups
 * Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you.”
 * Communicating in a ‘tone’ you don’t find congenial
 * Criticising racist, sexist, cissexist, or otherwise oppressive behavior or assumptions 
